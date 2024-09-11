@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science & Engineering, Hong Kong University of Science and Technology (HKUST), 2024
-* B.S. in Software Engineering, Sun Yat-sen University (SYSU), 2019
+* Ph.D in Computer Science & Engineering, Hong Kong University of Science and Technology (HKUST), 2019 - 2024
+* B.S. in Software Engineering, Sun Yat-sen University (SYSU), 2015 - 2019
 
 Publications
 ======
