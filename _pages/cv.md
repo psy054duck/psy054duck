@@ -42,5 +42,6 @@ Services
 
 Skills
 ======
-**Languages**: Mandarin Chinese (native), English
-**Coding**: C/C++, Python, LLVM, Z3, Mathematica, Matplotlib, ...
+* **Languages**: Mandarin Chinese (native), English
+
+* **Coding**: C/C++, Python, LLVM, Z3, Mathematica, Matplotlib, ...

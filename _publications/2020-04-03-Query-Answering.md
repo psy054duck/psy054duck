@@ -3,12 +3,13 @@ title: "Query Answering with Guarded Existential Rules under Stable Model Semant
 collection: # conferences
 category: conferences
 permalink: /publication/2019-10-01-Query-Answering
-excerpt: 'Authors: Hai Wan; Guohui Xiao; <b>Chenglin Wang</b>; Xianqiao Liu; Junhong Chen; Zhe Wang'
+excerpt: # 'Authors: Hai Wan; Guohui Xiao; <b>Chenglin Wang</b>; Xianqiao Liu; Junhong Chen; Zhe Wang'
 date: 2020-04-03
 venue: 'Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)'
 slidesurl: # 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: # 'http://academicpages.github.io/files/paper1.pdf'
 citation: # 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+authors: 'Hai Wan; Guohui Xiao; <b>Chenglin Wang</b>; Xianqiao Liu; Junhong Chen; Zhe Wang'
 ---
 ## Abstract
 
