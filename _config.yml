@@ -12,7 +12,7 @@ title                    : "Chenglin Wang"
 title_separator          : "-"
 name                     : &name "Chenglin Wang"
 description              : &description "personal description"
-url                      : https://psy054duck.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://psy054duck.github.io/psy054duck # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "psy054duck/psy054duck.github.io"
 
