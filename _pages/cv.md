@@ -14,6 +14,11 @@ Education
 * Ph.D in Computer Science & Engineering, Hong Kong University of Science and Technology (HKUST), 2019 - 2024
 * B.S. in Software Engineering, Sun Yat-sen University (SYSU), 2015 - 2019
 
+Experience
+======
+* Visiting scholar in University of Oxford, April - August 2025
+* Postdoc in Computer Science & Engineering, Hong Kong University of Science and Technology (HKUST), 2024 - Now
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -38,10 +43,11 @@ Teaching
   
 Services
 ======
+* PC member of 10th International Symposium on Dependable Software Engineering: Theories, Tools and Applications (SETTA 2025)
 * PC member of 10th International Symposium on Dependable Software Engineering: Theories, Tools and Applications (SETTA 2024)
 
 Skills
 ======
 * **Languages**: Mandarin Chinese (native), English
 
-* **Coding**: C/C++, Python, LLVM, Z3, Mathematica, Matplotlib, ...
+* **Coding**: C/C++, Python, LLVM, SMT solvers (e.g., Z3, CVC5), Mathematica, Matplotlib, ...
