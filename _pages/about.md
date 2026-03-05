@@ -12,3 +12,7 @@ who is now an associate professor in University of Oxford.
 Before that, I obtained the Ph.D degree in the same department supervised by [Prof. Fangzhen Lin](https://cse.hkust.edu.hk/admin/people/faculty/profile/flin) in 2024.
 I received the BS degree in Software Engineering from Sun Yat-sen University (SYSU) in 2019 advised by [Prof. Hai Wan](https://cse.sysu.edu.cn/content/2550).
 I am interested in formal method, algorithms, and artificial intelligence.
+
+My PhD thesis is on verifying multi-path loops by solving conditional recurrences. 
+During the postdoc and my visiting to Oxford, I was working on designing efficient parameterized algorithms
+for solving SMT problems.

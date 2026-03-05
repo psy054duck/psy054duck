@@ -27,6 +27,7 @@ Publications
 
 Awards
 ======
+* Seal of Excellence (Horizon Europe Marie Skłodowska-Curie Actions call 2025), 2026
 * Research Travel Grant Award, HKUST, 2024
 * Research Travel Grant Award, HKUST, 2023
 * Outstanding Undergraduate Thesis Award, SYSU, 2019

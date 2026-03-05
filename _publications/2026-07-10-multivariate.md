@@ -1,11 +1,11 @@
 ---
-title: "Verifying Recursions and Array Manipulating Programs in a Uniform Way by Solving Multivariate Recurrences"
+title: "Verifying Recursions and Array Manipulating Programs by Solving Multivariate Recurrences"
 collection: # conferences
 category: conferences
 permalink: /publication/2026-07-10-multivariate
 authors: '<b>Chenglin Wang</b>'
 # date: 2025-08-10
-venue: 'Under review, submitted to POPL'
+venue: 'Under review'
 slidesurl: # 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: # 'http://academicpages.github.io/files/paper1.pdf'
 citation: # 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
